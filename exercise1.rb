@@ -38,3 +38,7 @@ puts "Hello\rStart over world"
 puts "1. Hello\n2. World"
 
 #puts "Rachel\bToronto"
+
+#Boolean expressions work with logical operators && and || or ! not
+
+# note to ask && != <-- what they are?
